@@ -1,3 +1,11 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Default.aspx](./CS/ASPxDashboard/Default.aspx) (VB: [Default.aspx.vb](./VB/ASPxDashboard/Default.aspx.vb))
+* [Default.aspx.cs](./CS/ASPxDashboard/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/ASPxDashboard/Default.aspx.vb))
+* [Global.asax](./CS/ASPxDashboard/Global.asax) (VB: [Global.asax](./VB/ASPxDashboard/Global.asax))
+* [Global.asax.cs](./CS/ASPxDashboard/Global.asax.cs) (VB: [Global.asax](./VB/ASPxDashboard/Global.asax))
+<!-- default file list end -->
 # How to display the Total value above each Pie Chart
 
 
