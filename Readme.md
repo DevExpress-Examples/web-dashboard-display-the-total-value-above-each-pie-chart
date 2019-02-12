@@ -1,7 +1,7 @@
 <!-- default file list -->
 *Files to look at*:
 
-* [Default.aspx](./CS/ASPxDashboard/Default.aspx) (VB: [Default.aspx.vb](./VB/ASPxDashboard/Default.aspx.vb))
+* [Default.aspx](./CS/ASPxDashboard/Default.aspx) (VB: [Default.aspx](./VB/ASPxDashboard/Default.aspx))
 * [Default.aspx.cs](./CS/ASPxDashboard/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/ASPxDashboard/Default.aspx.vb))
 * [Global.asax](./CS/ASPxDashboard/Global.asax) (VB: [Global.asax](./VB/ASPxDashboard/Global.asax))
 * [Global.asax.cs](./CS/ASPxDashboard/Global.asax.cs) (VB: [Global.asax.vb](./VB/ASPxDashboard/Global.asax.vb))
