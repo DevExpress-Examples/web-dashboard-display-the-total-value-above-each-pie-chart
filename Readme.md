@@ -5,6 +5,9 @@
 <!-- default badges end -->
 
 # Web Dashboard - How to Display the Total value above Each Pie Chart
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/t543185/)**
+<!-- run online end -->
 
 <p>This example demonstrates how to access the <a href="https://docs.devexpress.com/Dashboard/117573/web-dashboard/aspnet-web-forms-dashboard-control/access-to-underlying-widgets?p=netframework">Underlying Pie Widgets</a> used to display the Pie Item and configure their settings to display the Total value in the title.
 
