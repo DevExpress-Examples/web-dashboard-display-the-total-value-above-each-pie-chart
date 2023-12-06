@@ -4,7 +4,7 @@
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
 
-# Web Dashboard - How to display the Total value above each Pie Chart
+# Web Dashboard - How to Display the Total value above Each Pie Chart
 
 <p>This example demonstrates how to access the <a href="https://docs.devexpress.com/Dashboard/117573/web-dashboard/aspnet-web-forms-dashboard-control/access-to-underlying-widgets?p=netframework">Underlying Pie Widgets</a> used to display the Pie Item and configure their settings to display the Total value in the title.
 
